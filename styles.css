@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+#parent{
+    height: 100vh;
+    width: 100vw;
+    background-color: aqua;
+}
+
+#child{
+    height: 50%;
+    width: 50%;
+    background-color: orange;
+}
